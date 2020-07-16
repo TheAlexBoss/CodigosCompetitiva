@@ -1,2 +1,7 @@
 # CodigosCompetitiva
-En este repositorio voy subiendo soluciones a algunos problemas de Programación Competitiva, tanto de AceptaElReto como de concursos como el Google Hash Code.
+En este repositorio voy subiendo soluciones a algunos problemas de Programación Competitiva, puedes encontrar:
+- Problemas de AceptaElReto
+- Posibles soluciones a los problemas de concursos como el Google Hash Code.
+- Chuletarios para concursos oficiales
+
+Y algunas otras cosas relacionadas con el tema :D
